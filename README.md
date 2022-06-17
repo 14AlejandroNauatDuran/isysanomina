@@ -13,8 +13,10 @@ Para poder manejar lo que se tiene es fundamental tener la siguiente configuraci
 isysnomina/isysa/yii2_nomina.sql
  * importar el script /yii2_nomina.sql en su MySQL, esto a traves de su Sistema Gestor de Bases de Datos.
  
+ 
 /*************************************************************/
 /*************************************************************/
+
 
 2) Conexión a Base de datos.
 isysnomina/isysa/includes/databases.php
@@ -29,8 +31,10 @@ $db = mysqli_connect('localhost', 'root', '','yii2_nomina');
     ''         -> contraseña;
    'yii2_nomina' -> nombre de la base de datos;
 
+
 /*************************************************************/
 /*************************************************************/
+
 
 3) Para poder correr el proyecto es necesario abrir una terminal y correr el siguiente comando ubicado en una carpeta en especifico. en mi caso lo hago desde el bash de Git
 
@@ -51,8 +55,10 @@ isysnomina/isysa
 gulp
 ejecuta el comando anterior (gulp).
 
+
 /*************************************************************/
 /*************************************************************/
+
 
 4) Para poder loguearse en el proyecto usa mi usuario y contraseña.
  'usuario'    -> alejandrodelacruznauatduran@gmail.com
