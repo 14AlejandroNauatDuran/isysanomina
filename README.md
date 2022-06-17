@@ -4,8 +4,10 @@ Proyecto de nómina
 Este es un avance del proyecto de procesos de nómina para ISYSA.
 
 Para poder manejar lo que se tiene es fundamental tener la siguiente configuracion de equipo de trabajo.
+
 /*************************************************************/
 /*************************************************************/
+
 1) Instalación de la base de datos:
 
 isysnomina/isysa/yii2_nomina.sql
