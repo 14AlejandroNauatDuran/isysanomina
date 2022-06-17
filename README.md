@@ -31,7 +31,7 @@ $db = mysqli_connect('localhost', 'root', '','yii2_nomina');
 
 
 
-3) Para poder correr el proyecto es necesario abrir una terminal y correr el siguiente comando ubicado en una carpeta en especifico. en mi caso lo hago desde el bash de Git
+ 3) Para poder correr el proyecto es necesario abrir una terminal y correr el siguiente comando ubicado en una carpeta en especifico. en mi caso lo hago desde el bash de Git
 
 isysnomina/isysa/public
 php -S localhost:3000 
@@ -53,7 +53,7 @@ ejecuta el comando anterior (gulp).
 
 
 
-4) Para poder loguearse en el proyecto usa mi usuario y contraseña.
+ 4) Para poder loguearse en el proyecto usa mi usuario y contraseña.
  'usuario'    -> alejandrodelacruznauatduran@gmail.com
  'contraseña' -> 12345678
 
