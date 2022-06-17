@@ -5,8 +5,7 @@ Este es un avance del proyecto de procesos de nómina para ISYSA.
 
 Para poder manejar lo que se tiene es fundamental tener la siguiente configuracion de equipo de trabajo.
 
-/*************************************************************/
-/*************************************************************/
+
 
 1) Instalación de la base de datos:
 
@@ -14,8 +13,6 @@ isysnomina/isysa/yii2_nomina.sql
  * importar el script /yii2_nomina.sql en su MySQL, esto a traves de su Sistema Gestor de Bases de Datos.
  
  
-/*************************************************************/
-/*************************************************************/
 
 
 2) Conexión a Base de datos.
@@ -32,8 +29,6 @@ $db = mysqli_connect('localhost', 'root', '','yii2_nomina');
    'yii2_nomina' -> nombre de la base de datos;
 
 
-/*************************************************************/
-/*************************************************************/
 
 
 3) Para poder correr el proyecto es necesario abrir una terminal y correr el siguiente comando ubicado en una carpeta en especifico. en mi caso lo hago desde el bash de Git
@@ -56,8 +51,6 @@ gulp
 ejecuta el comando anterior (gulp).
 
 
-/*************************************************************/
-/*************************************************************/
 
 
 4) Para poder loguearse en el proyecto usa mi usuario y contraseña.
