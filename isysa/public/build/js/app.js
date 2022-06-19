@@ -1,0 +1,1 @@
+function iniciarApp(){alerta()}function alerta(){const e=document.querySelector(".alerta");setTimeout(()=>{e.remove()},3e3)}document.addEventListener("DOMContentLoaded",(function(){iniciarApp()}));

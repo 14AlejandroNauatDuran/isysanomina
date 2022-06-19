@@ -1,0 +1,23 @@
+{
+    "name": "alejandro/isysa",
+    "description": "isysa_nomina",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MVC\\": "./",
+            "Controllers\\": "./controllers",
+            "Model\\": "./models",
+            "Classes\\":"./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "14AlejandroNauatDuran",
+            "email": "alejandro.nauatduran@itsva.edu.mx"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.6",
+        "phpoffice/phpspreadsheet": "^1.23"
+    }
+}
